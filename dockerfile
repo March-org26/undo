@@ -2,4 +2,4 @@ dockerfile
 data
 from
 pull
-vscode
+vscode added via command palette
